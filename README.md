@@ -1,5 +1,5 @@
 # Desktop App with Database Connection
-This application is designed to function as a spare parts manager for a workshop and facilitate the registration of new entries or visits to the workshop. I am currently in the process of developing budget management features.
+This application is designed to function as a spare parts manager for a workshop and facilitate the registration of new entries or visits to the workshop. 
 
 
 # Workshop spare parts management:
